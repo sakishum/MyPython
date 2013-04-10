@@ -1,0 +1,2 @@
+#!/usr/local/env python
+print('The Bright Side' + 'Of Life ...')
